@@ -2,7 +2,7 @@
 
 > 若不放心， 可以把后缀名修改为zip打开后查看源码
 
-## magnet
+## 使用 alfred 调用 magnet 进行分屏
 
 ![a.jpeg](./magnet/a.jpeg)
 
