@@ -4,6 +4,12 @@
 
 ## 使用 alfred 调用 magnet 进行分屏
 
+* 前提,要设置magnet的快捷键如下图所示, 或者自己修改 json 数据  
+
+![a.jpeg](./magnet/c.png)
+
+* 效果：
+
 ![a.jpeg](./magnet/a.jpeg)
 
 ![a.jpeg](./magnet/b.gif)
