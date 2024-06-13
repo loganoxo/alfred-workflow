@@ -20,5 +20,5 @@
 
 ## 直接复制文件内容
 
-![a.jpeg](./copy-content/a.jpeg)
+![a](./copy-content/a.png)
 
