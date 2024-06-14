@@ -27,6 +27,10 @@
 
 ![a](./new-file/a.gif)
 
+## 划词搜索
+
+![a](./website-search-collection/a.gif)
+
 ## 直接复制文件内容
 
 ![a](./copy-content/a.png)
